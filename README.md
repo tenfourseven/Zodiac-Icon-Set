@@ -1,5 +1,5 @@
 # Zodiac-Icon-Set
-A set of astrological icons based on circles
+A set of astrological icons based on circles.
 
 The icons are available as PNG and SVG files.
 
